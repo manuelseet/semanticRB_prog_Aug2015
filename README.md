@@ -13,6 +13,8 @@ Findings from the final RB project have been peer-reviewed and published.
 Seet, M. S., Andrews, S., & Harris, I. M. (2019). Semantic repetition blindness and associative facilitation in the identification of stimuli in rapid serial visual presentation. Memory & cognition, 47(5), 1024-1030. https://link.springer.com/article/10.3758/s13421-019-00905-9
 
 
+------------------------------------------------------------------
+
 
 Programme Scaffold was designed and initially created via Psychopy experiment builder (Pierce, 2007, 2008)
 
